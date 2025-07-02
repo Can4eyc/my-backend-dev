@@ -1,2 +1,2 @@
-# my-backend-dev
-Python code by Terraform
+# This is dev Python repo is for backend
+Last modified by: Aleks :)
